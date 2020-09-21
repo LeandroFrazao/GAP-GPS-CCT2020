@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Alert, StyleSheet, Text, View, TouchableOpacity } from 'react-native';
-import Style from './Style/Style';
+
 
 export default class Gps extends Component {
 	state = {
